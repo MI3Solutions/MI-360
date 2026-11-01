@@ -1,3 +1,4 @@
+import Projects from "./pages/Projects";
 import PlantCard from "./components/PlantCard";
 import ServiceCard from "./components/ServiceCard";
 import ComplaintCard from "./components/ComplaintCard"; 
@@ -31,6 +32,7 @@ function App() {
         <Dashboard />
 
         <Customers />
+        <Projects />
 
         <StatCard />
         <div
